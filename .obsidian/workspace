@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "2035f2ff90b5529f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5c968bfbac9357b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/Обобщенные вычисления сводных показателей с помощью свертки.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bc3852f27c8b91d",
+    "type": "split",
+    "children": [
+      {
+        "id": "58d2fdacda47c652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f8021d2c4db24e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "89345e16009992e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "82eab26ef33d8d94",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7eeb8d0a962ae492",
+    "type": "split",
+    "children": [
+      {
+        "id": "edadae06c85926a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e73a974be07efd81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/Обобщенные вычисления сводных показателей с помощью свертки.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f09dc53a27ff2c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Base/Обобщенные вычисления сводных показателей с помощью свертки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1c59f83ba2b30c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1bfe536d0c3e6266",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Base/Обобщенные вычисления сводных показателей с помощью свертки.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f5c968bfbac9357b",
+  "lastOpenFiles": [
+    "Files/Схема вычисления сумморного числа калорий меню с использованием процесса свертки.png",
+    "Base/Обобщенные вычисления сводных показателей с помощью свертки.md",
+    "Base/Свертка и вычисление сводных показателей.md",
+    "Base/Вычисление сводных показателей с помощью коллекторов.md",
+    "Base/Объединение строк.md",
+    "Base/Свертка потока данных.md",
+    "Files/Разница метода collect и reduce.png",
+    "Base/Встроенные коллекторы.md",
+    "Files/Процесс агрегирования при использовании коллектора summingInt.png"
+  ]
+}

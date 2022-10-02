@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "Files",
+  "promptDelete": false,
+  "newLinkFormat": "shortest",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Base",
+  "spellcheckLanguages": [
+    "ru",
+    "en-GB"
+  ],
+  "alwaysUpdateLinks": true
+}
