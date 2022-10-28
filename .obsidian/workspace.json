@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bc811377af226e4e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/Способы замены элементов.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "42dabcb23cc17bf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d510e9291106df3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Пример реализации паттерна проектирования Наблюдатель (Observer) и его рефакторинг.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -32,7 +39,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -58,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Способы замены элементов.md",
+                "file": "Base/Пример реализации паттерна проектирования Наблюдатель (Observer) и его рефакторинг.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Способы замены элементов.md",
+                "file": "Base/Пример реализации паттерна проектирования Наблюдатель (Observer) и его рефакторинг.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Способы замены элементов.md"
+                "file": "Base/Пример реализации паттерна проектирования Наблюдатель (Observer) и его рефакторинг.md"
               }
             }
           }
@@ -130,17 +140,20 @@
     "width": 145.5,
     "collapsed": true
   },
-  "active": "bc811377af226e4e",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d510e9291106df3e",
   "lastOpenFiles": [
-    "Base/Работа с ассоциативными массивами.md",
-    "Base/Способы замены элементов.md",
-    "Base/Паттерны удаления.md",
-    "Base/Паттерны вычисления.md",
-    "Base/Метод gerOrDefault.md",
-    "Base/Сортировка ассоциативных массивов.md",
-    "Base/Метод forEach.md",
-    "Base/Фабрики коллекций.md",
-    "Base/Работа со списками и множествами.md",
-    "Base/Метод replaceAll.md"
+    "Base/Паттерн проектирования Наблюдатель (Observer).md",
+    "Base/Рефакторинг ООП паттернов проектирования с помощью лямбда-выражений.md",
+    "Base/Паттерн проектирования Шаблонный метод (Template method).md",
+    "Base/Пример реализации паттерна проектирования Шаблонный метод (Template method) и его рефакторинг.md",
+    "Base/Пример реализации паттерна проектирования Наблюдатель (Observer) и его рефакторинг.md",
+    "Base/Паттерн проектирования Стратегия (Strategy).md",
+    "Files/Паттерн проектирования Наблюдеталь.png",
+    "Base/Пример реализации паттерна проектирования Стратегия (Strategy) и его рефакторинг.md",
+    "Files/Паттерн проектирования Стратегия.png",
+    "Base/00 Рефакторинг, тестирование и отладка.md"
   ]
 }
