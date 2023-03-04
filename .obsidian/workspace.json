@@ -4,16 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "42dabcb23cc17bf1",
+        "id": "9332c1086b80e61a",
         "type": "tabs",
         "children": [
           {
-            "id": "d510e9291106df3e",
+            "id": "549691680e1ca660",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base/Пример реализации паттерна проектирования Наблюдатель (Observer) и его рефакторинг.md",
+                "file": "Base/Разработка реактивных API.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1913d4e92e70871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Тестирование реактивных контроллеров.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aadc3ee708b8b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base/Тестирование запросов GET.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,7 +47,7 @@
             }
           }
         ],
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -72,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -89,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Пример реализации паттерна проектирования Наблюдатель (Observer) и его рефакторинг.md",
+                "file": "Base/Тестирование запросов GET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Base/Пример реализации паттерна проектирования Наблюдатель (Observer) и его рефакторинг.md",
+                "file": "Base/Тестирование запросов GET.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Пример реализации паттерна проектирования Наблюдатель (Observer) и его рефакторинг.md"
+                "file": "Base/Тестирование запросов GET.md"
               }
             }
           }
@@ -140,20 +166,54 @@
     "width": 145.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false
+    }
   },
-  "active": "d510e9291106df3e",
+  "active": "5aadc3ee708b8b54",
   "lastOpenFiles": [
-    "Base/Паттерн проектирования Наблюдатель (Observer).md",
-    "Base/Рефакторинг ООП паттернов проектирования с помощью лямбда-выражений.md",
-    "Base/Паттерн проектирования Шаблонный метод (Template method).md",
-    "Base/Пример реализации паттерна проектирования Шаблонный метод (Template method) и его рефакторинг.md",
-    "Base/Пример реализации паттерна проектирования Наблюдатель (Observer) и его рефакторинг.md",
-    "Base/Паттерн проектирования Стратегия (Strategy).md",
-    "Files/Паттерн проектирования Наблюдеталь.png",
-    "Base/Пример реализации паттерна проектирования Стратегия (Strategy) и его рефакторинг.md",
-    "Files/Паттерн проектирования Стратегия.png",
-    "Base/00 Рефакторинг, тестирование и отладка.md"
+    "Base/Тестирование реактивных контроллеров.md",
+    "Base/Тестирование запросов GET.md",
+    "Base/Разработка реактивных API.md",
+    "Base/Функциональный аналог класса TacoController.md",
+    "Base/Определение обработчиков запросов в функциональном стиле.md",
+    "Files/Pasted image 20230302205438.png",
+    "Base/Введение в Spring WebFlux.md",
+    "Base/Spring WebFlux.md",
+    "Base/Создание реактивных контроллеров.md",
+    "Base/Реактивная обработка входных данных.md",
+    "Base/Работа с типами RxJava.md",
+    "Base/Возврат одиночных значений WebFlux.md",
+    "Files/Pasted image 20230228205101.png",
+    "Files/Pasted image 20230228202637.png",
+    "Files/Pasted image 20230228202302.png",
+    "Files/Pasted image 20230227213734.png",
+    "Base/00 Spring Framework & Spring Boot.md",
+    "Base/Определение хранителей конфигурационных свойств.md",
+    "Base/Работа с конфигурацией.md",
+    "Base/Введение в Reactor.md",
+    "Base/Комбинирование реактивных типов. Reactor..md",
+    "Base/Выполнение логических операций с реактивными типами.md",
+    "Base/Преобразование и фильтрация реактивных типов.md",
+    "Base/Использование распространенных реактивных операций.md",
+    "Files/Pasted image 20230226095617.png",
+    "Base/Буферизация данных в реактивном потоке.md",
+    "Files/Pasted image 20230226091847.png",
+    "Files/Pasted image 20230226091138.png",
+    "Files/Pasted image 20230226091035.png",
+    "Files/Pasted image 20230226090837.png",
+    "Base/Отображение реактивных данных.md",
+    "Base/Фильтрация данных в реактивных потоках.md",
+    "Base/Генерирование новых данных в потоке Flux. Reactor..md",
+    "Base/Создание из коллекций. Reactor..md",
+    "Base/Создание из объектов. Reactor..md",
+    "Base/Диаграммы реактивных потоков.md"
   ]
 }
